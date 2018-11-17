@@ -1,3 +1,7 @@
+'''A setuptools based setup module.
+
+'''
+
 import setuptools
 
 with open("README.md", "r") as fh:
@@ -19,4 +23,3 @@ setuptools.setup(
         "Operating System :: OS Independent",
     ],
 )
-
