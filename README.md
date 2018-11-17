@@ -1,5 +1,5 @@
-# python_module_example
-Python Module Example based on https://packaging.python.org/tutorials/packaging-projects/
+# About
+Python package example based on https://packaging.python.org/tutorials/packaging-projects/
 
 # Dependencies
 ```
