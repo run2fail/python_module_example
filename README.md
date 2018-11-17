@@ -3,6 +3,8 @@ Python package example based on https://packaging.python.org/tutorials/packaging
 
 Further information can be found here: https://packaging.python.org/guides/distributing-packages-using-setuptools/
 
+See also: https://github.com/pypa/sampleproject
+
 # Install Dependencies
 ```
 python3 -m pip install --upgrade setuptools wheel
